@@ -20,8 +20,9 @@
 ## 2. Tech
 - Skills
   <br><br>
-  `Augmentation`,`Crawling`,`Object Dectection`,segmentation`,`EDA`
+  `Object Dectection`,`Segmentation`,`EDA`,`Augmentation`,`Crawling`
 <br>
+
 - Tool
   <br><br>
   `Visual Studio`,`Google Colab`,`RoboFlow`,`notion`,`git-hub`
@@ -40,34 +41,32 @@
 ## 4. 프로젝트 상세 내용
 <div align='center'>
   
-  |기획 & 구현도|
+  |기획|
   |---|
-  |`선정배경`
-  ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/5b81bfce-c3dc-4f19-b069-a9bde2c50f40)
-  `구현도`
-  ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1d96cd4b-8624-48c5-9df1-21ff7405ac85)
-
-  |
+  |<div align='center'>`선정배경`</div>|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/5b81bfce-c3dc-4f19-b069-a9bde2c50f40)|
+  |<div align='center'>`구현도`</div>|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1e2477b4-c8d6-4096-a789-b609cff39067)|
   <br>
   
   |AI Model|
   |---|
-  |`YOLOV4`
-  ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/f1f7a7b9-1761-4122-af11-b5d0ac152e20)
-   `YOLOV5`
-   ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/c3143bc2-e893-4b8e-b7d3-677bd8d86ab7)
-   `YOLOV7`
-   ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/4ae6bbca-ac61-4f81-8c05-900356b2f80d)
-   `U_net`
-   ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/2d7cb562-5a08-4cef-97f6-f35a321adb31)|
+  |<div align='center'>`YOLOV4`</div>|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/f1f7a7b9-1761-4122-af11-b5d0ac152e20)|
+   |<div align='center'>`YOLOV5`</div>|
+   |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/c3143bc2-e893-4b8e-b7d3-677bd8d86ab7)|
+   |<div align='center'>`YOLOV7`</div>|
+   |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/4ae6bbca-ac61-4f81-8c05-900356b2f80d)|
+   |<div align='center'>`U_net`</div>|
+   |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/2d7cb562-5a08-4cef-97f6-f35a321adb31)|
   <br>
   
   |수행절차 & Flow Chart|
   |---|
-  |`수행절차`
-  ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1edddeb6-2a40-42a2-a47d-deb85d55106d)
-  `Flow Chart`
-  ![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1aaa5dd9-934e-4f0e-bb70-eab8025aebce)|
+  |<div align='center'>`수행절차`</div>|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1edddeb6-2a40-42a2-a47d-deb85d55106d)|
+  |<div align='center'>`Flow Chart`</div>|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1aaa5dd9-934e-4f0e-bb70-eab8025aebce)|
   <br>
   
   |UI / UX|
@@ -93,12 +92,12 @@
   |아쉬운 점 / 개선 사항|
   |---|
   |<div align='center'>아쉬운 점</div>|
-  |-높은 mAP에 비해 dectection성능의 아쉬움
-   -DeepLab V3+ 적용을 못 해본점
-   -Model Handling의 어려움|
+  |-높은 `mAP`에 비해 `dectection` 성능의 아쉬움
+   -`DeepLab V3+` 적용을 못 해본점
+   -`Model Handling`의 어려움|
   |<div align='center'>개선 사항 & 참고 객원<div>|
-  |-데이터 개선: Resized, Crawling을 통한 데이터 증강, 증강처리(Filp,Cut-out,Mosaic,Cut-Mix,Bringht)
-  -성능 개선: 모델 아키텍처 수정, 학습률(learning rate) 조절 Callbacks 활용, 전이학습
+  |-데이터 개선: `Resized`, `Crawling`을 통한 데이터 증강, 증강처리(Filp,Cut-out,Mosaic,Cut-Mix,Bringht)
+  -성능 개선: 모델 아키텍처 수정, 학습률(learning rate) 조절 `Callbacks` 활용, 전이학습
   -농업회사법인 한국산삼주식회사 대표 전병무님, 산삼농원 '비학농원' 운영자 장재기님|
   <br>
   
