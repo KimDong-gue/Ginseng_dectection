@@ -91,5 +91,9 @@
   <br>
   
   |팀원 소개|
+  |---|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/7b8fd5cf-870f-4a73-914a-7e4e9143a8f6)
+|
+
 
 </div>
