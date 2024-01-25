@@ -82,6 +82,7 @@
   |<div align='center'>개선 사항 & 참고 객원<div>|
   |-데이터 개선: `Resized`, `Crawling`을 통한 데이터 증강, 증강처리(Filp,Cut-out,Mosaic,Cut-Mix,Bringht)
   -성능 개선: 모델 아키텍처 수정, 학습률(learning rate) 조절 `Callbacks` 활용, 전이학습
+  -참고 객원
   -농업회사법인 한국산삼주식회사 대표 전병무님, 산삼농원 '비학농원' 운영자 장재기님|
   <br>
   
