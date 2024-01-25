@@ -1,9 +1,8 @@
 ○ Subject: 산삼인식 드론
-○ Contributer
-○ Skils: 
-○ Model: 
-○ Dataset : 
-○ Project Schedule 23.9.12 ~ 23.10.6(약 3주)
+
+○ Dataset : `Google Crawling`
+
+○ Project Schedule : 23.9.12 ~ 23.10.6(약 3주)
 
 <br>
 
@@ -40,6 +39,11 @@
 
 ## 4. 프로젝트 상세 내용
 <div align='center'>
+
+  
+  |팀원 소개|
+  |---|
+  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/7b8fd5cf-870f-4a73-914a-7e4e9143a8f6)|
   
   |기획|
   |---|
@@ -68,27 +72,7 @@
   |<div align='center'>`Flow Chart`</div>|
   |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/1aaa5dd9-934e-4f0e-bb70-eab8025aebce)|
   <br>
-  
-  |UI / UX|
-  |---|
-  |<div align='center'>일반 로그인 & 회원가입</div>|
-  |그림|
-  |<div align='center'>메인 화면 & 검색</div>|
-  |그림|
-  |<div align='center'>운동 시작</div>|
-  |그림|
-  |<div align='center'>챌린지/랭킹</div>|
-  |그림|
-  |<div align='center'>마이 페이지</div>|
-  |그림|
-  |<div align='center'>센터 업주 로그인 & 회원가입</div>|
-  |그림|
-  |<div align='center'>센터 회원조회 & 콘텐츠 업로드</div>|
-  |그림|
-  |<div align='center'>관리자 페이지</div>|
-  |그림|
-  <br>
-  
+
   |아쉬운 점 / 개선 사항|
   |---|
   |<div align='center'>아쉬운 점</div>|
@@ -101,9 +85,4 @@
   -농업회사법인 한국산삼주식회사 대표 전병무님, 산삼농원 '비학농원' 운영자 장재기님|
   <br>
   
-  |팀원 소개|
-  |---|
-  |![image](https://github.com/KimDong-gue/Ginseng_dectection/assets/116249934/7b8fd5cf-870f-4a73-914a-7e4e9143a8f6)|
-
-
 </div>
